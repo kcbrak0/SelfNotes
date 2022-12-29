@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69669584885",
+    "project_id": "flutterselfnotes",
+    "storage_bucket": "flutterselfnotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69669584885:android:8b14efe1dd6f287db0aabc",
+        "android_client_info": {
+          "package_name": "com.example.self_notepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69669584885-snjkao3qkbhmc4o57f2hn16blhmrlm0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-LLobq6olOnoYYYJbg-ryemNMEB9O4sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69669584885-snjkao3qkbhmc4o57f2hn16blhmrlm0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
